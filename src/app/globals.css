@@ -24,3 +24,49 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+/* Base gradient style */
+.gradient {
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1.25rem;
+  font-weight: bold;
+  border-radius: 0.5rem;
+}
+
+/* Linear Gradient */
+.linear {
+  background: linear-gradient(90deg, #ec4899, #f87171, #fbbf24);
+}
+
+/* Radial Gradient */
+.radial {
+  background: radial-gradient(circle at center, #fbbf24, #f87171, #ec4899);
+}
+
+/* Conic Gradient */
+.conic {
+  background: conic-gradient(from 0deg at 50% 50%, red, yellow, green, blue, red);
+}
+
+/* Diamond Gradient (simulated) */
+.diamond {
+  background: radial-gradient(closest-side, #ff7e5f, #feb47b);
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+
+.neomorph {
+  background: radial-gradient(ellipse at 30% 30%, #E5E5E5, #8D8D8D);
+  
+}
