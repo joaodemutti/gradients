@@ -1,6 +1,6 @@
 # Neomorph Gradient
 
-<img width="278" height="652" alt="image" src="https://github.com/user-attachments/assets/f43ed611-4d1b-447a-9a0d-f47f8c08becf" />
+<img width="278" height="699" alt="image" src="https://github.com/user-attachments/assets/1b8b4349-65be-4fac-8b44-140224764639" />
 
 ## Estrutura do projeto
  - Página (html): [src/app/page.tsx](src/app/page.tsx)
