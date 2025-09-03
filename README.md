@@ -5,10 +5,10 @@
 ## Gradient
 
 ```css
+/* Neomorph Gradient */
 .neomorph {
   background: radial-gradient(ellipse at 30% 30%, #E5E5E5, #8D8D8D);
 }
-
 
 /* Linear Gradient */
 .linear {
