@@ -15,11 +15,6 @@
   background: radial-gradient(circle at center, #fbbf24, #f87171, #ec4899);
 }
 
-/* Conic Gradient */
-.conic {
-  background: conic-gradient(from 0deg at 50% 50%, red, yellow, green, blue, red);
-}
-
 .container {
   display: flex;
   flex-direction: column;

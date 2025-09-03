@@ -33,10 +33,6 @@ export default function Page() {
         Radial Gradient
       </div>
 
-      <div className="gradient conic">
-        Conic Gradient
-      </div>
-
     </div>
   );
 }
