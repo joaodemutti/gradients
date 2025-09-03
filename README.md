@@ -4,7 +4,7 @@
 
 ## Estrutura do projeto
  - Página (html): [src/app/page.tsx](src/app/page.tsx)
- - Estilização (css): [src/app/globals.css](src/app/global.css)
+ - Estilização (css): [src/app/globals.css](src/app/globals.css)
 
 
 ## Iniciando
